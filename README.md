@@ -26,10 +26,6 @@ https://github.com/user-attachments/assets/b339d0b0-93dc-4a84-91a2-54ff3cbd3640
 
 
 
-## News
-
-- [2025.05.20] We are currently organizing the code and will follow up with an official release. Please stay patient and wait for further updates.
-
 
 ## Installation
 ### Setup with Anaconda

@@ -1,0 +1,14 @@
+_BASE_: ../Base.yml
+
+MODEL:
+  BACKBONE:
+#    NORM: syncBN
+    NAME: build_resnest_backbone
+#  HEADS:
+#    NORM: syncBN
+
+DATASETS:
+  NAMES: ("MICE",)
+  TESTS: ("MICE",)
+
+OUTPUT_DIR: MPBReID/logs/mice_half/MPBReID_M50
