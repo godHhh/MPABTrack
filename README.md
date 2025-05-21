@@ -6,13 +6,13 @@
 ### Results on Multi-Mice PartsTrack dataset
 
 #### mice part and body tracking
-![mice](https://github.com/godHhh/MPBTrack/assets/mice_part_and_body_tracking.mp4)
+![mice](https://github.com/godHhh/MPBTTrack/assets/mice_part_and_body_tracking.mp4)
 
 #### mice part tracking
-![mice](https://github.com/godHhh/MPBTrack/assets/mice_part_tracking.mp4)
+![mice](https://github.com/godHhh/MPBTTrack/assets/mice_part_tracking.mp4)
 
 #### mice body tracking
-![mice](https://github.com/godHhh/MPBTrack/assets/mice_body_tracking.mp4)
+![mice](https://github.com/godHhh/MPBTTrack/assets/mice_body_tracking.mp4)
 
 ## News
 
