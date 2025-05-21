@@ -1,4 +1,4 @@
-# MPBTTrack
+# MPABTrack
 
 
 
@@ -62,7 +62,7 @@ We provide pretrained model weights for MPBTrack.
 
 
 ## Training
-Download the COCO-pretrained YOLOX weight [here](https://github.com/Megvii-BaseDetection/YOLOX/tree/0.1.0) and put it under *\<MPBTTrack_HOME\>/pretrained*.
+Download the COCO-pretrained YOLOX weight [here](https://github.com/Megvii-BaseDetection/YOLOX/tree/0.1.0) and put it under *\<MPABTrack_HOME\>/pretrained*.
 
 * **Train PartsTrack dataset model**
 
