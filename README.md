@@ -35,16 +35,16 @@ https://github.com/user-attachments/assets/b339d0b0-93dc-4a84-91a2-54ff3cbd3640
 ### Setup with Anaconda
 **Step 1.** Create Conda environment and install pytorch.
 ```shell
-conda create -n MPBTrack python=3.8
-conda activate MPBTrack
+conda create -n MPABTrack python=3.8
+conda activate MPABTrack
 ```
 **Step 2.** Install torch and matched torchvision from https://pytorch.org/get-started/locally
 The code was tested using torch 1.9.1+cu113 and torchvision==0.10.1 
 
-**Step 3.** Install MPBTrack.
+**Step 3.** Install MPABTrack.
 ```shell
-git clone https://github.com/godHhh/MPBTrack.git
-cd MPBTrack
+git clone https://github.com/godHhh/MPABTrack.git
+cd MPABTrack
 pip3 install -r requirements.txt
 python3 setup.py develop
 ```
