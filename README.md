@@ -52,9 +52,10 @@ pip3 install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=Python
 ## Model Zoo
 We provide pretrained model weights for MPBTrack. 
 
-| Name | Model                                                                                                |
-|-----|  ---------------------------------------------------------------------------------------------------- |
-|  Multi-Mice PartsTrack  |  [Google Drive](https://drive.google.com/drive/folders/1dmhvc8hbx?usp=sharing) |
+| Name                  | Model                                                                                                |
+|-----------------------|  ---------------------------------------------------------------------------------------------------- |
+| Multi-Mice PartsTrack |  [Google Drive](https://drive.google.com/file/d/1rcPy2scytli7VpHagr67e2vv0L5NdJpm/view?usp=sharing) |
+| MPBReID               |  [Google Drive](https://drive.google.com/file/d/1J2tDqrLKAW-rfVxeVkVvS62d2AFQ4tcZ/view?usp=sharing) |
 
 
 ## Training
