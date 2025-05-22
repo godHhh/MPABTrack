@@ -72,5 +72,5 @@ Download the COCO-pretrained YOLOX weight [here](https://github.com/Megvii-BaseD
 
 * **on PartsTrack Test set**
     ```shell
-    python tools/track.py -f exps/example/mot/yolox_mice_reid.py -c pretrained/mice.pth.tar -b 1 -d 1 --fp16 --fuse --test
+    python tools/track.py -f exps/example/mot/yolox_mice_reid.py -c pretrained/MPBTrack.pth.tar -b 1 -d 1 --fp16 --fuse --test
     ```
